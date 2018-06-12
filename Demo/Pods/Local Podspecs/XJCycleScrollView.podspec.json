@@ -1,0 +1,28 @@
+{
+  "name": "XJCycleScrollView",
+  "version": "0.0.1",
+  "summary": "XJCycleScrollView 是一个滚动banner，使用UIScrollView及3个UIButton实现",
+  "description": "XJCycleScrollView 是一个滚动banner，使用UIScrollView及3个UIButton实现",
+  "homepage": "https://github.com/Shawnge/XJCycleScrollView",
+  "license": "MIT",
+  "authors": {
+    "xiaojian": "zhiling1991@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/Shawnge/XJCycleScrollView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "*.{h,m}",
+  "public_header_files": "*.h",
+  "dependencies": {
+    "SDWebImage": [
+      "~> 4.4.1"
+    ],
+    "EllipsePageControl": [
+      "~> 0.0.4"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '8.0'
+
+target 'XJCycleScrollViewDemo' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for XJCycleScrollViewDemo
+  pod 'XJCycleScrollView', :path=>'../XJCycleScrollView/'
+#  pod 'SDWebImage', '~> 4.4.1'
+#  pod 'EllipsePageControl', '~> 0.0.4'
+#  pod 'Reveal-SDK', '~> 4', :configurations => ['Debug']
+end
